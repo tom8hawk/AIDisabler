@@ -1,0 +1,4 @@
+name: AIDisabler
+version: '${project.version}'
+main: ru.baronessdev.personal.aidisabler.AIDisabler
+api-version: 1.19
